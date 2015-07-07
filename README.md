@@ -1,1 +1,1 @@
-# goldfishjs-infosite
+Information about GoldfishJS
